@@ -3,18 +3,18 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C042%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C043%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C043%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .gold one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .gold one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 9,042-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,043 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,042 rows · **Live catalog:** 9,043 domains
+**Public extract:** 9,043 rows · **Live catalog:** 9,043 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/gold`  
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .GOLD one-word domain 
 
 ### Files
 
-- `gold.csv` — public CSV extract (9,042 rows)
-- `gold.json` — public JSON extract (9,042 rows)
+- `gold.csv` — public CSV extract (9,043 rows)
+- `gold.json` — public JSON extract (9,043 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -73,13 +73,13 @@ print(df.head())
 | done.gold      | available | $9.99     | $141.99       | 80             | 36     | 4      | name.com                                            |
 | mesh.gold      | resell    | —         | —             | 92             | 81     | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
 | services.gold  | premium   | $520      | $520          | 72             | 29     | 8      | namecheap                                           |
-| cute.gold      | available | $9.99     | $141.99       | 82             | 34     | 4      | name.com                                            |
+| advance.gold   | available | $9.99     | $141.99       | 110            | 33     | 7      | name.com                                            |
 | discover.gold  | resell    | —         | —             | 66             | 75     | 8      | GoDaddy.com, LLC                                    |
 | natural.gold   | premium   | $520      | $520          | 106            | 28     | 7      | namecheap                                           |
-| advance.gold   | available | $9.99     | $141.99       | 110            | 33     | 7      | name.com                                            |
+| chill.gold     | available | $9.99     | $141.99       | 72             | 33     | 5      | name.com                                            |
 | get.gold       | resell    | —         | —             | 88             | 69     | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | dirty.gold     | premium   | $250      | $250          | 92             | 26     | 5      | name.com                                            |
-| chill.gold     | available | $9.99     | $141.99       | 72             | 33     | 5      | name.com                                            |
+| cute.gold      | available | $9.99     | $141.99       | 82             | 32     | 4      | name.com                                            |
 | prompt.gold    | resell    | —         | —             | 114            | 68     | 6      | DNSPod, Inc.                                        |
 | superstar.gold | premium   | $500      | $500          | 80             | 24     | 9      | name.com                                            |
 | wiz.gold       | available | $9.99     | $141.99       | 80             | 32     | 3      | name.com                                            |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,042-row public sample | 9,043 live domains                               |
+| 9,043-row public sample | 9,043 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
