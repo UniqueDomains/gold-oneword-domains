@@ -1,10 +1,10 @@
-# Available .GOLD One-Word Domains (11,931)
+# Available .GOLD One-Word Domains (11,944)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C931%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C944%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .gold one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,931 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,944 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,931 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,944 domains · **Median ask:** $19.87 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/gold`  
 **Best for:** founders, investors, studios
 
@@ -71,7 +71,7 @@ print(df.head())
 | tokens.gold       | resell    | —         | —             | 51             | 36     | 6      | Sav.com, LLC - 26                                   |
 | recycled.gold     | premium   | $250      | —             | 79             | 10     | 8      | name.com                                            |
 | Jim.gold          | available | $130.98   | —             | 78             | 28     | 3      | namecheap                                           |
-| bonus.gold        | resell    | —         | —             | 78             | 33     | 5      | Dynadot Inc                                         |
+| bonus.gold        | resell    | —         | —             | 78             | 32     | 5      | Dynadot Inc                                         |
 | commonground.gold | available | $9.99     | —             | 74             | 28     | 13     | name.com                                            |
 | teams.gold        | resell    | —         | —             | 62             | 32     | 5      | NameCheap, Inc.                                     |
 | forms.gold        | available | $9.99     | —             | 54             | 28     | 5      | name.com                                            |
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,931 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 11,944 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This set is entirely focused on .gold domains. The names range from short words like fog.gold to longer terms like airplane.gold and consensus.gold. For founders, the main question is whether the word stays clear, memorable, and credible with the .gold ending. For investors, the core test is whether the ask leaves room after renewal costs and whether the keyword has realistic buyer appeal. With a median ask of 19.87, many of these domains may look inexpensive upfront, so the better filter is not just price, but how naturally the word pairs with .gold and how broadly it can be resold or adopted.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Check whether the word makes natural sense with .gold
+- Use the 19.87 median ask as a price reality check
+- Favor clear, memorable words over awkward pairings
+- Review renewal cost before judging a low ask as a deal
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GOLD One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GOLD One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
