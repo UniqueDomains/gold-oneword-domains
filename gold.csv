@@ -402,6 +402,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 269d0539-8070-4add-bda2-05d0f3988dcc,olives.gold,available,9.99,,56,11,6,name.com,,
 269d3546-bffc-4dc0-82b7-1655e3a79e61,attempts.gold,available,9.99,,54,3,8,name.com,,
 26a65334-ded2-4fef-b3e5-d055ebe4d2b3,personallife.gold,available,9.99,,68,3,13,name.com,,
+26b11268-db70-4883-a5f9-2a56a706663d,Nicole.gold,available,9.99,,70,24,6,name.com,,
 26b447cf-7f5c-43c1-a0a0-cc3f71221d32,GodtheHolySpirit.gold,available,130.98,,58,1,19,namecheap,,
 26cf6e63-8b2c-432b-99e9-828b61be37b7,minimumwages.gold,available,9.99,,52,1,13,name.com,,
 26d46584-800c-4cc9-998e-b6b3905f529a,geese.gold,available,9.99,,53,10,5,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5b78218c-9bfe-4a66-bf14-28f35bc83fcf,statehood.gold,available,9.99,,70,2,9,name.com,,
 5b83c233-3e23-4922-a11f-5766f66e7a75,socialjustice.gold,available,9.99,,68,6,14,name.com,,
 5b857b88-9926-48d7-b88b-cdca0e8f116b,billofrights.gold,available,9.99,,70,3,14,name.com,,
-5b85f4d4-9737-4ee7-84c8-8ea788e4a4f0,coffeesugar.gold,available,9.99,,62,0,12,name.com,,
