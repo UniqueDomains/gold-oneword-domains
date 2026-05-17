@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .gold one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,953 domains · **Median ask:** $19.87 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/gold`  
 **Best for:** founders, investors, studios
 
@@ -80,7 +80,7 @@ print(df.head())
 | backyard.gold     | available | $9.99     | —             | 80             | 27     | 9      | name.com                                            |
 | systems.gold      | resell    | —         | —             | 46             | 27     | 7      | Xiamen ChinaSource Internet Service Co., Ltd        |
 | pops.gold         | available | $9.99     | —             | 74             | 24     | 4      | name.com                                            |
-| destination.gold  | resell    | —         | —             | 90             | 25     | 11     | DNSPod, Inc.                                        |
+| destination.gold  | resell    | —         | —             | 90             | 24     | 11     | DNSPod, Inc.                                        |
 | Nicole.gold       | available | $9.99     | —             | 70             | 24     | 6      | name.com                                            |
 | girls.gold        | resell    | —         | —             | 83             | 23     | 5      | DNSPod, Inc.                                        |
 | pros.gold         | available | $9.99     | —             | 53             | 23     | 4      | name.com                                            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GOLD One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GOLD One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
