@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .gold one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,953 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,953 domains · **Median ask:** $19.87 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,953 domains · **Median ask:** $13.52 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/gold`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/gold`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .GOLD one-word domain 
 
 ### Files
 
-- `gold.csv` — public CSV extract (1,000 rows)
-- `gold.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `gold.csv`, public CSV extract (1,000 rows)
+- `gold.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| Cats.gold         | available | $130.98   | —             | 59             | 33     | 4      | namecheap                                           |
-| coins.gold        | resell    | —         | —             | 56             | 41     | 5      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| jobs.gold         | premium   | $500      | —             | 79             | 42     | 4      | name.com                                            |
-| trends.gold       | available | $9.99     | —             | 60             | 32     | 6      | name.com                                            |
-| tokens.gold       | resell    | —         | —             | 51             | 36     | 6      | Sav.com, LLC - 26                                   |
-| recycled.gold     | premium   | $250      | —             | 79             | 10     | 8      | name.com                                            |
-| Jim.gold          | available | $130.98   | —             | 78             | 28     | 3      | namecheap                                           |
-| bonus.gold        | resell    | —         | —             | 78             | 32     | 5      | Dynadot Inc                                         |
-| golddigger.gold   | premium   | —         | —             | 64             | 7      | 11     | —                                                   |
-| commonground.gold | available | $9.99     | —             | 74             | 28     | 13     | name.com                                            |
-| teams.gold        | resell    | —         | —             | 62             | 32     | 5      | NameCheap, Inc.                                     |
-| forms.gold        | available | $9.99     | —             | 54             | 28     | 5      | name.com                                            |
-| slots.gold        | resell    | —         | —             | 49             | 31     | 5      | DNSPod, Inc.                                        |
-| backyard.gold     | available | $9.99     | —             | 80             | 27     | 9      | name.com                                            |
-| systems.gold      | resell    | —         | —             | 46             | 27     | 7      | Xiamen ChinaSource Internet Service Co., Ltd        |
-| pops.gold         | available | $9.99     | —             | 74             | 24     | 4      | name.com                                            |
-| destination.gold  | resell    | —         | —             | 90             | 24     | 11     | DNSPod, Inc.                                        |
-| Nicole.gold       | available | $9.99     | —             | 70             | 24     | 6      | name.com                                            |
-| girls.gold        | resell    | —         | —             | 83             | 23     | 5      | DNSPod, Inc.                                        |
-| pros.gold         | available | $9.99     | —             | 53             | 23     | 4      | name.com                                            |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| bce.gold      | available | $9.99     | —             | medium         | low    | 3      | name.com                                            |
+| bio.gold      | resell    | —         | —             | high           | medium | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| dirty.gold    | premium   | $250      | $250          | high           | low    | 5      | name.com                                            |
+| DJI.gold      | available | $9.99     | —             | high           | low    | 3      | name.com                                            |
+| bot.gold      | resell    | —         | —             | high           | medium | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| lyric.gold    | premium   | $9.99     | —             | medium         | low    | 5      | name.com                                            |
+| dye.gold      | available | $9.99     | —             | medium         | low    | 3      | name.com                                            |
+| cap.gold      | resell    | —         | —             | high           | low    | 3      | DNSPod, Inc.                                        |
+| remote.gold   | premium   | $9.99     | —             | high           | medium | 6      | name.com                                            |
+| far.gold      | available | $9.99     | —             | high           | low    | 3      | name.com                                            |
+| fly.gold      | resell    | —         | —             | high           | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd        |
+| engineer.gold | premium   | $500      | —             | high           | low    | 8      | name.com                                            |
+| fog.gold      | available | $9.99     | —             | high           | low    | 3      | name.com                                            |
+| ivy.gold      | resell    | —         | —             | high           | low    | 3      | DNSPod, Inc.                                        |
+| services.gold | premium   | $520      | $520          | high           | low    | 8      | namecheap                                           |
+| los.gold      | available | $9.99     | —             | high           | low    | 3      | name.com                                            |
+| job.gold      | resell    | —         | —             | high           | low    | 3      | DNSPod, Inc.                                        |
+| lot.gold      | available | $9.99     | —             | medium         | low    | 3      | name.com                                            |
+| key.gold      | resell    | —         | —             | high           | medium | 3      | Xin Net Technology Corporation                      |
+| opt.gold      | available | $9.99     | —             | medium         | low    | 3      | name.com                                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely focused on .gold domains. The names range from short words like fog.gold to longer terms like airplane.gold and consensus.gold. For founders, the main question is whether the word stays clear, memorable, and credible with the .gold ending. For investors, the core test is whether the ask leaves room after renewal costs and whether the keyword has realistic buyer appeal. With a median ask of 19.87, many of these domains may look inexpensive upfront, so the better filter is not just price, but how naturally the word pairs with .gold and how broadly it can be resold or adopted.
+This list of 11,953 one-word .gold domain names spans everyday words and compound phrases, from honeymooning.gold to WonderWoman.gold. With a median ask of $13.52, most of these domains are accessible for quick acquisition, though renewal costs and demand vary widely across the .gold extension. Investors can weigh TLD coverage and resale potential, while founders can focus on brandable, easy-to-spell names that are ownable now. Updated daily, this selection reflects current pricing across the .gold namespace.
 
-- Check whether the word makes natural sense with .gold
-- Use the 19.87 median ask as a price reality check
-- Favor clear, memorable words over awkward pairings
-- Review renewal cost before judging a low ask as a deal
+- 11,953 one-word .gold domain names available now
+- Median ask of $13.52 per domain, updated daily
+- Spans everyday words, compounds, and brandable terms
+- Compare renewal costs and demand before buying
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GOLD One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GOLD One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
