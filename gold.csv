@@ -7,7 +7,7 @@ d99acc96-b684-4a1b-9903-7a7071e23126,failure.gold,available,9.99,99.99,high,low,
 033013e1-d43b-4e45-9e49-a78be1dfa955,sagging.gold,available,7.98,130.98,medium,low,7,namecheap,,,14/08/2026 19:45
 3d904b37-8617-44b6-9f17-cd3a17509ab6,podium.gold,available,9.99,99.99,high,low,6,namesilo,,,18/09/2026 17:13
 ebc7793f-b108-4e8d-81b9-001f9ad83e0c,polluted.gold,available,7.98,130.98,medium,low,8,namecheap,,,08/09/2026 23:08
-57430d96-1ae4-4091-8673-d80920eaf80c,lithe.gold,available,7.98,130.98,high,low,5,namecheap,,,24/08/2026 00:26
+57430d96-1ae4-4091-8673-d80920eaf80c,lithe.gold,available,6.93,83,high,low,5,spaceship,,,28/09/2026 07:58
 198f90ed-3450-47cc-ac28-632d513b2f4c,populate.gold,available,7.98,130.98,high,low,8,namecheap,,,24/08/2026 07:48
 1c27a234-a4de-45b2-8e4b-00c92bc7e185,specific.gold,available,9.99,99.99,high,low,8,namesilo,,,27/09/2026 02:45
 71566925-5e90-4ad7-a660-1ef17381a40c,kestrel.gold,available,7.98,130.98,high,low,7,namecheap,,,18/09/2026 20:14
@@ -27,6 +27,7 @@ e1b943a2-d294-4237-8904-a7abfe9bfea2,criticise.gold,available,9.99,,high,low,9,n
 0a269bbd-1b96-47e3-8cb7-01098c5bdfb3,airplane.gold,available,9.99,99.99,high,low,8,namesilo,,,27/09/2026 04:01
 4b551b58-349a-4719-9c93-6d0ef7d0324e,ancillary.gold,available,7.98,130.98,high,low,9,namecheap,,,
 3726144c-f274-43d5-9c45-1a2c90bf07a0,mollify.gold,available,7.98,130.98,high,low,7,namecheap,,,18/08/2026 22:10
+17f3cc68-68a1-4b6c-a22a-796f7b4d1e0b,mustard.gold,available,6.93,83,high,low,7,spaceship,,,28/09/2026 06:28
 a831edd8-6e45-4372-8eb6-c14d3a3ef339,improvise.gold,available,9.99,99.99,high,low,9,namesilo,,,21/09/2026 16:45
 e055728c-150b-4f36-b3cb-a20738b73e55,entangle.gold,available,7.98,130.98,high,low,8,namecheap,,,24/08/2026 16:54
 3952d6b5-0813-4f47-b372-6a5cf6eb0acb,habitual.gold,available,7.98,130.98,high,low,8,namecheap,,,20/08/2026 21:28
@@ -53,6 +54,7 @@ a5ac8bc8-8730-4763-a286-e1f6c230101f,nodding.gold,available,7.98,130.98,high,low
 a91aa26a-fe62-45e8-b430-40b80498dadf,betel.gold,available,9.99,99.99,medium,low,5,namesilo,,,23/09/2026 11:05
 1eafa105-ce81-42c0-b741-9b8d8c7e9f17,nebraska.gold,available,9.99,,high,low,8,name.com,,,
 07145cca-1a9f-426a-8b2b-61e9dde285ef,rapidly.gold,available,7.98,130.98,high,low,7,namecheap,,,13/09/2026 20:17
+c7ac9c43-f9ca-4449-94be-6f128084d243,satisfaction.gold,available,9.99,99.99,high,low,12,namesilo,,,28/09/2026 04:23
 b9cde4ac-c17f-4dbb-9dd5-a9cc93b73152,primly.gold,available,7.98,130.98,medium,low,6,namecheap,,,15/09/2026 21:26
 91d0dc82-693c-48ba-8a6c-5a787ae07100,automaton.gold,available,9.99,99.99,high,low,9,namesilo,,,21/09/2026 07:00
 6ede92ec-51c1-47e6-8f4b-07d31c47e5a9,prance.gold,available,7.98,130.98,high,low,6,namecheap,,,11/09/2026 05:09
@@ -61,7 +63,7 @@ b9cde4ac-c17f-4dbb-9dd5-a9cc93b73152,primly.gold,available,7.98,130.98,medium,lo
 ecdb2d13-5bd2-499f-badf-468877e1bfb8,seized.gold,available,9.99,,medium,low,6,name.com,,,
 aa93317e-31a1-4d1a-a72e-6079a415dbc1,rime.gold,available,7.98,130.98,high,low,4,namecheap,,,21/08/2026 10:08
 68734401-0e16-40f2-8176-f96322fd0f69,achievable.gold,available,9.99,99.99,high,low,10,namesilo,,,21/09/2026 15:42
-a80f998d-8941-45c4-bfcd-03f46cacc863,out.gold,resell,,,high,low,3,"DNSPod, Inc.",22/05/2020 10:44,22/05/2036 10:44,26/09/2026 07:57
+a80f998d-8941-45c4-bfcd-03f46cacc863,out.gold,resell,,,high,low,3,"DNSPod, Inc.",22/05/2020 10:44,22/05/2036 10:44,28/09/2026 05:37
 f76408bc-0bbb-41ec-801d-8aa92987f01a,floodlit.gold,available,7.98,130.98,medium,low,8,namecheap,,,18/08/2026 08:47
 79b28f11-b48b-4dee-b15c-8a325d36c1cf,wings.gold,resell,,,high,low,5,"DNSPod, Inc.",01/03/2023 15:15,01/03/2027 15:15,26/09/2026 10:11
 59d8b1cd-943b-4ced-a6b7-b93d1dc46d71,nutlike.gold,available,7.98,130.98,medium,low,7,namecheap,,,03/09/2026 23:16
@@ -100,6 +102,7 @@ f886bb8b-77d5-4fe8-b6d6-0aee0617fbca,animosity.gold,available,7.98,130.98,medium
 e420a956-16a0-445a-8d4e-5198c5786d2c,addictive.gold,available,7.98,130.98,high,low,9,namecheap,,,21/09/2026 17:08
 3f765ce6-9004-4180-b56b-3a638e89ea3d,farrell.gold,available,9.99,99.99,medium,low,7,namesilo,,,25/09/2026 05:20
 3ef88c55-90e5-49f3-9bf3-ff598b4b439c,bloody.gold,available,9.99,99.99,high,low,6,namesilo,,,22/09/2026 00:33
+fb8a1a10-5538-4efd-95d3-83ebdb1f7252,fayetteville.gold,available,80.2,80.2,medium,low,12,cloudflare,,,28/09/2026 04:16
 edcfbf6a-57b6-48eb-abd5-71897c99ee4a,apercu.gold,available,9.99,99.99,medium,low,6,namesilo,,,19/09/2026 16:30
 cf6ed2e6-be0d-40d7-8675-ef38e0433b12,disorganized.gold,available,9.99,,medium,low,12,name.com,,,
 c300e7e0-b585-4e40-a597-b882d52c7d37,grudging.gold,available,7.98,130.98,medium,low,8,namecheap,,,20/08/2026 20:31
@@ -132,6 +135,7 @@ b0e9a521-bd4e-46ed-9243-3a5abe5955c9,devonian.gold,available,9.99,99.99,medium,l
 c33f8fc3-7bab-48f5-8789-d7932d73e18e,margosa.gold,available,7.98,130.98,medium,low,7,namecheap,,,20/09/2026 05:43
 e3e2b4a5-1e7d-42e3-b2b5-64c232efb483,immortal.gold,resell,,,high,low,8,"Xiamen ChinaSource Internet Service Co., Ltd",23/12/2021 13:15,23/12/2026 13:15,26/09/2026 06:49
 ea5fb176-8f40-4623-9ccf-279e7f504d5d,explains.gold,available,7.98,130.98,medium,low,8,namecheap,,,19/09/2026 21:05
+d544ef67-ce5f-48ff-a30e-c26776b927ca,stevie.gold,available,9.99,99.99,high,low,6,namesilo,,,28/09/2026 07:58
 2f4761fc-d88f-43e7-b58e-9b6942eeccaa,conduit.gold,available,7.98,130.98,high,low,7,namecheap,,,24/09/2026 17:11
 b626fcff-23fa-4db8-a078-798a3ba91912,artful.gold,available,7.98,130.98,high,low,6,namecheap,,,06/08/2026 22:44
 76b25e8c-5383-4221-a35b-ca367bb644f5,runproof.gold,available,7.98,130.98,medium,low,8,namecheap,,,22/08/2026 18:28
@@ -161,6 +165,7 @@ a055005d-3246-4745-a5cb-ce00684788e4,bighead.gold,available,9.99,99.99,medium,lo
 01c0ab2a-451d-459d-b578-977c68ea3c55,disordered.gold,available,7.98,130.98,medium,low,10,namecheap,,,14/08/2026 11:18
 1e194d25-1c1d-46c1-a9e0-a8e5ada6e444,stumpy.gold,available,7.98,130.98,medium,low,6,namecheap,,,24/08/2026 10:40
 5bbd9352-5ae1-4d11-ba7e-8de0ca664711,unleaded.gold,available,7.98,130.98,high,low,8,namecheap,,,22/08/2026 21:46
+e7b74e09-cf7e-47a8-a6bf-6847c91fc7d3,brendan.gold,available,80.2,80.2,medium,low,7,cloudflare,,,28/09/2026 04:01
 b75c85b8-3a2c-4dc3-ba0f-0aa50bf0532a,sterilization.gold,available,9.99,99.99,high,low,13,namesilo,,,16/09/2026 21:54
 4ac52f37-8932-49f0-a5c6-26a0425bbd7f,reassuring.gold,available,7.98,130.98,high,low,10,namecheap,,,09/09/2026 11:14
 4369f956-f031-4147-a991-eba39a0a8b1e,scurvy.gold,available,7.98,130.98,medium,low,6,namecheap,,,
@@ -168,6 +173,7 @@ b9089d28-4b6b-4542-b74e-efe40ba9863e,squall.gold,available,9.99,,medium,low,6,na
 32eeaf13-1b46-43c9-89ce-64f49df31347,seemly.gold,available,7.98,130.98,medium,low,6,namecheap,,,09/08/2026 06:27
 c46d03fb-54a8-4487-bc85-52f8534dd960,unreported.gold,available,7.98,130.98,medium,low,10,namecheap,,,12/09/2026 18:19
 2f7a055b-16ac-4a2c-b91f-a6b7fda7d6ec,meant.gold,available,9.99,99.99,medium,low,5,namesilo,,,25/09/2026 16:51
+efb1e197-4f71-4cdc-ba25-178ef2abd1f3,drivers.gold,available,9.99,99.99,high,low,7,namesilo,,,28/09/2026 03:43
 473daa17-d1cf-47bd-b8c6-f4520151eba3,callow.gold,available,7.98,130.98,high,high,6,namecheap,,,11/08/2026 14:48
 fd21953f-fcc5-40c2-91f1-73f0f2f0e83e,arm.gold,available,,,high,medium,3,,,,
 8a9e4f04-7e13-4588-b90d-75865c36d953,barman.gold,available,7.98,130.98,high,low,6,namecheap,,,22/09/2026 06:19
@@ -243,11 +249,12 @@ e3236bfa-e1c6-4aed-8fe5-dff32b942ea2,nearer.gold,available,9.99,,medium,low,6,na
 73b87c9c-a96d-41f4-8854-1fcc50aae0a3,migratory.gold,available,7.98,130.98,medium,low,9,namecheap,,,24/08/2026 22:49
 0d354bf9-4d5f-4aa9-91ac-aca4b27fbe69,mineral.gold,premium,242,242,high,low,7,namesilo,,,08/09/2026 16:39
 ae2f7564-c1dc-45da-80f3-98454f1beb62,equals.gold,available,9.99,99.99,medium,low,6,namesilo,,,18/09/2026 22:09
+8e8c1f21-1373-46f4-8893-112cdb6cc379,aldrich.gold,available,9.99,99.99,medium,low,7,namesilo,,,28/09/2026 04:14
 806cb5d4-2714-492f-bd33-5feab58b72b9,bonfire.gold,available,7.98,130.98,high,low,7,namecheap,,,21/09/2026 21:51
 9343a8ee-2c99-4385-8ed9-22b106a91b1a,underling.gold,available,7.98,130.98,medium,low,9,namecheap,,,11/09/2026 00:39
 d6480018-a6e9-4b11-b3d0-fecc76da01e9,addon.gold,available,9.99,99.99,high,low,6,namesilo,,,17/09/2026 06:37
 602cda24-e322-4960-b047-d3bbb895e2ac,explorer.gold,resell,,,high,low,8,Dynadot Inc,02/02/2026 17:00,02/02/2027 17:00,26/09/2026 05:57
-3ad0facd-7548-4d5a-b7e8-e0c90235f9d6,news.gold,resell,,,high,medium,4,"DNSPod, Inc.",12/08/2018 00:09,12/08/2035 00:09,26/09/2026 07:46
+3ad0facd-7548-4d5a-b7e8-e0c90235f9d6,news.gold,resell,,,high,medium,4,"DNSPod, Inc.",12/08/2018 00:09,12/08/2035 00:09,28/09/2026 06:34
 25726dde-8c60-4672-b11c-cf87d32b2c6f,supremely.gold,available,9.99,99.99,medium,low,9,namesilo,,,16/09/2026 07:39
 e516fbb7-106b-4961-b94f-0b4be4128ccc,caracas.gold,available,9.99,,high,low,7,name.com,,,
 d0cf85ee-3a4a-4ed4-bb21-c824e4876f17,dakar.gold,available,9.99,,high,low,5,name.com,,,
@@ -255,7 +262,7 @@ d0cf85ee-3a4a-4ed4-bb21-c824e4876f17,dakar.gold,available,9.99,,high,low,5,name.
 37fda815-3626-4884-8c0c-2220a66a2be4,unpolished.gold,available,7.98,130.98,medium,low,10,namecheap,,,18/08/2026 20:45
 a0157496-3c4b-4019-a1b1-adc8727d0449,castrated.gold,available,7.98,130.98,medium,low,9,namecheap,,,11/08/2026 20:30
 a68040ee-22d7-4ac4-aef9-7c5bfad6f177,uprightly.gold,available,7.98,130.98,medium,low,9,namecheap,,,15/09/2026 01:06
-b3708adb-e749-42c1-9486-6c436ae0be45,idiot.gold,available,7.98,130.98,high,low,5,namecheap,,,23/09/2026 07:42
+b3708adb-e749-42c1-9486-6c436ae0be45,idiot.gold,available,80.2,80.2,high,low,5,cloudflare,,,28/09/2026 05:02
 98ad6283-71f0-43bd-b6d2-7865a9bcca29,rude.gold,available,7.98,130.98,high,low,4,namecheap,,,22/09/2026 16:12
 a202b0a2-8f18-4afc-8817-142c0b71d7b8,spite.gold,available,9.99,99.99,high,low,5,namesilo,,,23/09/2026 22:22
 a72db6ed-1167-479c-ab62-169e3519495b,vision.gold,resell,,,high,medium,6,"DNSPod, Inc.",06/03/2017 06:26,06/03/2027 06:26,26/09/2026 10:00
@@ -277,7 +284,7 @@ ec641f93-e620-4562-8ffa-47c9aeda17fa,queried.gold,available,7.98,130.98,medium,l
 caea7032-0f2f-45a2-8b24-6db6502acb4f,ambulances.gold,available,9.99,99.99,medium,low,10,namesilo,,,21/09/2026 07:02
 ac67948b-e978-441c-a514-bae2c4fe0e8e,harlan.gold,available,9.99,99.99,medium,low,6,namesilo,,,27/09/2026 08:13
 3eb93787-2d13-4d2f-b01d-b18916d293f1,lungs.gold,available,9.99,99.99,medium,low,5,namesilo,,,27/09/2026 02:43
-71ee43b5-7ed5-4397-a9fd-9d07001db946,academics.gold,available,9.99,99.99,high,low,9,namesilo,,,24/09/2026 02:34
+71ee43b5-7ed5-4397-a9fd-9d07001db946,academics.gold,available,9.99,99.99,high,low,9,namesilo,,,28/09/2026 05:28
 3239f8da-0a68-4659-866f-56aaffd8740d,specter.gold,available,7.98,130.98,high,low,7,namecheap,,,08/09/2026 18:41
 3ee3d16b-5986-44e3-8c51-773c98edad4a,cautionary.gold,available,7.98,130.98,medium,low,10,namecheap,,,
 5bcb5d7e-7e33-4ddc-b5d7-face35e5ad56,telescopic.gold,available,7.98,130.98,medium,low,10,namecheap,,,11/09/2026 10:24
@@ -306,6 +313,7 @@ a89bc50d-2231-40ae-b848-9b782c113499,reticulate.gold,available,7.98,130.98,high,
 3a65c0fe-9b4d-4465-97de-bc6a25d06ad0,blusher.gold,available,9.99,99.99,medium,low,7,namesilo,,,18/09/2026 15:49
 65e99bfa-5d31-420e-bc31-611110682c42,windswept.gold,available,7.98,130.98,medium,low,9,namecheap,,,13/09/2026 12:16
 91e7fd82-7a0f-4ca4-aa19-dddb85536985,aesir.gold,available,9.99,99.99,medium,low,5,namesilo,,,17/09/2026 13:23
+9c72e07d-5678-4cb5-9f11-72367aa5d818,copper.gold,resell,,,high,low,6,"DNSPod, Inc.",26/09/2018 23:23,26/09/2027 23:23,28/09/2026 04:43
 eb21b082-b8df-49a9-8d82-9e32e4be3264,overstated.gold,available,7.98,130.98,medium,low,10,namecheap,,,17/08/2026 15:36
 f312c743-cc91-4142-bbcd-6d6ac0006cf2,tales.gold,available,9.99,99.99,high,low,5,namesilo,,,18/09/2026 16:46
 12d495cc-f830-4c3c-b021-028a8ed74062,biome.gold,available,7.98,130.98,high,low,5,namecheap,,,23/09/2026 18:30
@@ -354,7 +362,7 @@ fb45443b-80ad-405a-b1e9-8fdd40fa958a,cas.gold,available,6.93,83,high,low,3,space
 c0a96d6e-c718-4fcd-881c-db7eaad1be9b,jungly.gold,available,7.98,130.98,medium,low,6,namecheap,,,22/08/2026 14:27
 9573cccb-330d-4a22-ab74-7ce05657535e,incredibly.gold,available,7.98,130.98,high,low,10,namecheap,,,14/09/2026 17:21
 5e54adc0-61bb-470d-b437-1349e46736dd,higgins.gold,available,7.98,130.98,high,low,7,namecheap,,,25/09/2026 13:27
-e4b42d42-d742-475b-b386-8115728ad256,laboratory.gold,available,9.99,99.99,high,low,10,namesilo,,,24/09/2026 03:29
+e4b42d42-d742-475b-b386-8115728ad256,laboratory.gold,available,9.99,99.99,high,low,10,namesilo,,,28/09/2026 06:20
 bcdc701b-00c6-4510-aab5-c688fd0cd515,cuneiform.gold,available,7.98,130.98,medium,low,9,namecheap,,,13/08/2026 10:34
 6d3b5569-d128-4eab-8d33-f8db1a761d3a,glibly.gold,available,7.98,130.98,medium,low,6,namecheap,,,14/09/2026 21:34
 82a7780a-8fcf-454a-b473-016e27fe1894,unveil.gold,available,9.99,,high,low,6,name.com,,,
@@ -362,6 +370,7 @@ b24819d0-cb0e-4451-8bc7-bdf8895ad2e9,overdress.gold,available,9.99,99.99,high,lo
 e29631b4-5924-4a1a-97c1-5ade72443561,pardon.gold,available,9.99,,high,low,6,name.com,,,
 ec73c18b-75c5-4bbb-a52d-f4acac6cb362,affixal.gold,available,7.98,130.98,medium,low,7,namecheap,,,
 3e8e7c90-b6e9-43dd-8040-a6288ba2819e,garden.gold,resell,,,high,low,6,"DNSPod, Inc.",17/11/2018 08:20,17/11/2026 08:20,27/09/2026 01:57
+90994617-3526-4196-9124-1345bc5aa835,rolf.gold,available,9,,high,low,4,unstoppable,,,28/09/2026 06:01
 6fc86b2e-e5a5-42f0-90bf-e3b96e4bfe01,starlike.gold,available,7.98,130.98,medium,low,8,namecheap,,,10/09/2026 18:54
 04e36c99-779a-4be0-bc56-333357c6c96c,thalassic.gold,available,7.98,130.98,medium,low,9,namecheap,,,11/09/2026 12:22
 7fb6d9e2-56a8-4d60-a36f-330df584d413,addend.gold,available,7.98,130.98,medium,low,6,namecheap,,,17/09/2026 06:41
@@ -378,6 +387,7 @@ b0ea81ae-88bf-4394-8056-3e54c4563d2b,implausible.gold,available,9.99,,medium,low
 8e515b15-619d-4310-8fea-2a1e858599b8,leaning.gold,available,7.98,130.98,high,low,7,namecheap,,,07/08/2026 13:24
 219a756e-309c-4c8e-998a-fbe98867220f,burnt.gold,available,9.99,99.99,high,low,5,namesilo,,,23/09/2026 11:41
 02a02140-f413-40cd-a4e0-9c0fd6bf4c4f,toasted.gold,available,7.98,130.98,high,low,7,namecheap,,,11/09/2026 16:35
+12551586-1ba7-489d-8dad-fbaa57dd9c5e,wwii.gold,available,6.93,83,medium,low,4,spaceship,,,28/09/2026 07:36
 66c8d24d-79a7-4045-8f2a-297ffb4acbee,acres.gold,available,9.99,99.99,high,low,5,namesilo,,,17/09/2026 02:56
 57e9b5a7-e75e-4bb0-8985-119b3e17fc83,diskette.gold,available,7.98,130.98,medium,low,8,namecheap,,,18/08/2026 08:53
 0f6c2c3b-84bc-451f-ab27-afaa9be73e33,ambrosian.gold,available,7.98,130.98,high,low,9,namecheap,,,
@@ -593,6 +603,7 @@ aa032e81-6e71-4f08-b1a4-78739f4ed946,lisbon.gold,available,9.99,,high,low,6,name
 c6b6edea-349e-497d-88a6-b131a2693c03,tress.gold,available,9.99,99.99,medium,low,5,namesilo,,,24/09/2026 07:57
 25b976c9-70e6-4787-a4f9-b4bd85f78777,technically.gold,available,7.98,130.98,high,low,11,namecheap,,,19/09/2026 04:54
 fad2c93c-ac53-4d22-9113-b31295c488af,flier.gold,available,7.98,130.98,high,low,5,namecheap,,,11/08/2026 05:10
+e3cee16b-56cd-40d5-a661-bc2f43e72709,crawling.gold,available,80.2,80.2,medium,low,8,cloudflare,,,28/09/2026 05:30
 7fdf402e-bdda-40a4-98f2-02ea5ea39f8e,gabby.gold,available,7.98,130.98,high,low,5,namecheap,,,12/08/2026 03:18
 0bc554a9-ec90-4839-90c1-ea8d139e519c,nomadic.gold,available,7.98,130.98,high,low,7,namecheap,,,25/08/2026 02:19
 b4cc4b88-83f9-4511-ab8d-14b991039616,major.gold,resell,,,high,low,5,Dynadot Inc,13/02/2026 17:00,13/02/2027 17:00,26/09/2026 07:23
@@ -802,6 +813,7 @@ e7fb4610-cdd2-4043-ae9a-8c23c57461ed,nutcase.gold,available,7.98,130.98,medium,l
 e22d4dd5-e7c8-4de8-be42-5bb65c920f27,traded.gold,available,9.99,99.99,medium,low,6,namesilo,,,25/09/2026 20:44
 d4cea714-c66e-4c50-89b7-220151a09a75,erbium.gold,available,9.99,99.99,medium,low,6,namesilo,,,20/09/2026 23:37
 82c81e42-89bd-4449-b119-5666594ec6d2,searched.gold,available,9.99,99.99,medium,low,8,namesilo,,,18/09/2026 02:50
+63a3c5f5-bbf3-4d3e-8f10-dd6cbb101a70,publish.gold,available,80.2,80.2,high,low,7,cloudflare,,,28/09/2026 06:03
 1473da69-6702-4194-a556-d034c9ebe339,bandage.gold,available,9.99,99.99,high,low,7,namesilo,,,22/09/2026 00:52
 0a34e329-73e5-479d-bf11-6228d6e6923f,fixation.gold,available,9.99,99.99,high,low,8,namesilo,,,20/09/2026 09:06
 19af5f98-1e2b-41e4-b21c-16b4d8f941ee,zack.gold,available,5.66,82.9,high,low,4,porkbun,,,27/09/2026 18:11
@@ -810,6 +822,7 @@ a57d0d2c-d78b-412d-b04d-16df03af187c,bindweed.gold,available,9.99,99.99,medium,l
 755a9145-25ab-45cc-8a55-7ed2123b0205,cutaneal.gold,available,9.99,141.99,medium,low,8,name.com,,,13/08/2026 12:57
 57d9df6a-fef5-44db-9b67-3a022aa1b816,braised.gold,available,7.98,130.98,medium,low,7,namecheap,,,11/08/2026 01:55
 88e30c36-0b92-4b8b-b8e5-8ee86a0ca94e,depth.gold,available,9.99,99.99,high,low,5,namesilo,,,28/09/2026 01:46
+7a7946f6-6194-45fd-8f90-df831354e839,articles.gold,available,9.99,99.99,high,low,8,namesilo,,,28/09/2026 04:25
 97805b38-94f2-45bb-b58e-2b8d423da745,unreleased.gold,available,7.98,130.98,medium,low,10,namecheap,,,12/09/2026 18:08
 a57fb243-6e75-468b-9a2a-9e7ecd6b3c3b,gelid.gold,available,7.98,130.98,medium,low,5,namecheap,,,18/08/2026 21:05
 a65eb9bc-c54d-484a-9963-40dcea4f1c86,material.gold,available,9.99,99.99,high,low,8,namesilo,,,23/09/2026 23:27
@@ -986,16 +999,3 @@ f40ca4a0-4a17-4225-89a6-402c83ec7b53,rattled.gold,available,7.98,130.98,medium,l
 bfb6175d-d92d-4fb5-ab85-26e6b9976f65,sanctioned.gold,available,7.98,130.98,medium,low,10,namecheap,,,06/08/2026 09:24
 f69ebee6-a491-4b2e-853a-83d5fe2ccb5f,steakhouse.gold,available,9.99,99.99,high,low,10,namesilo,,,24/09/2026 14:46
 4de13490-60fb-4d41-aff2-e95f6c0b2086,resists.gold,available,7.98,130.98,medium,low,7,namecheap,,,18/09/2026 10:58
-c0450930-1560-4581-841c-f1c0cadaa5f8,understandable.gold,available,9.99,,high,low,14,name.com,,,
-c166ed85-1139-4ffb-b67f-41f7eab61e58,objectives.gold,available,9.99,99.99,medium,low,10,namesilo,,,17/09/2026 15:43
-369a137f-8916-40d1-9de7-97df2eec6c3e,scummy.gold,available,7.98,130.98,medium,low,6,namecheap,,,
-05d22f6c-6724-48ff-b447-15805ed25f44,ride.gold,resell,,,high,low,4,"Xiamen ChinaSource Internet Service Co., Ltd",01/03/2024 15:16,01/03/2027 15:16,26/09/2026 08:40
-da18ee52-caf6-41f5-99b3-f16c66634203,flowered.gold,available,7.98,130.98,high,low,8,namecheap,,,18/08/2026 08:56
-f8828062-3f0e-460e-bf87-63d0a2674c2d,underside.gold,available,7.98,130.98,high,low,9,namecheap,,,10/08/2026 21:15
-5593dc1a-e911-41f3-b1f4-ac90f9371714,vaguely.gold,available,9.99,99.99,medium,low,7,namesilo,,,16/09/2026 10:34
-ea1f6fdc-72c8-4a27-b47a-4a4c747debbc,granular.gold,available,7.98,130.98,medium,low,8,namecheap,,,12/08/2026 06:52
-9eb5f1f8-0241-4fcb-84d9-959c826f8a67,dextrous.gold,available,7.98,130.98,high,low,8,namecheap,,,13/08/2026 23:53
-a5c303d0-c80b-4662-935f-3d1b86364164,classes.gold,available,5.57,84.21,medium,low,7,dynadot,,,27/09/2026 23:47
-ea60fa72-561d-4b5e-a572-be95130e0dbd,atrial.gold,available,7.98,130.98,low,low,6,namecheap,,,07/08/2026 14:24
-b80a71bc-2759-4158-9121-d11d37a2ad38,ava.gold,resell,,,high,medium,3,"Chengdu West Dimension Digital Technology Co., Ltd.",31/05/2024 17:00,31/05/2027 17:00,26/09/2026 04:10
-855a8c97-2de6-44ec-9d6c-ac25ed6c9c0c,unholy.gold,available,7.98,130.98,medium,low,6,namecheap,,,14/08/2026 01:33
