@@ -1,10 +1,10 @@
-# Available .GOLD One-Word Domains (25,054)
+# Available .GOLD One-Word Domains (27,106)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C054%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C106%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .gold one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **25,054 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **27,106 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 25,054 domains · **Median ask:** $11.60 · **High-demand under $2,500:** 3
+**Public extract:** 1,000 rows · **Live catalog:** 27,106 domains · **Median ask:** $12.45 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/tld/gold`
 **Best for:** founders, investors, studios
 
@@ -65,25 +65,25 @@ print(df.head())
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
 | ani.gold      | available | $9.99     | $99.99        | high           | low    | 3      | namesilo                                            |
-| gps.gold      | resell    | —         | —             | high           | medium | 3      | —                                                   |
-| about.gold    | premium   | $512      | $512          | high           | low    | 5      | namesilo                                            |
-| ata.gold      | available | $6.93     | $83           | medium         | low    | 3      | spaceship                                           |
 | key.gold      | resell    | —         | —             | high           | medium | 3      | DNSPod, Inc.                                        |
+| about.gold    | premium   | $512      | $512          | high           | low    | 5      | namesilo                                            |
+| ata.gold      | available | $6.93     | $83           | high           | low    | 3      | spaceship                                           |
+| kin.gold      | resell    | —         | —             | high           | low    | 3      | DNSPod, Inc.                                        |
 | mineral.gold  | premium   | $242      | $242          | high           | low    | 7      | namesilo                                            |
 | btu.gold      | available | $9.99     | $99.99        | high           | low    | 3      | namesilo                                            |
-| kin.gold      | resell    | —         | —             | high           | low    | 3      | DNSPod, Inc.                                        |
+| mix.gold      | resell    | —         | —             | high           | medium | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | canadian.gold | premium   | $118.80   | $118.80       | high           | low    | 8      | namesilo                                            |
 | btw.gold      | available | $9.99     | $99.99        | high           | low    | 3      | namesilo                                            |
-| mix.gold      | resell    | —         | —             | high           | medium | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| cas.gold      | available | $6.93     | $83           | high           | low    | 3      | spaceship                                           |
 | out.gold      | resell    | —         | —             | high           | low    | 3      | DNSPod, Inc.                                        |
-| css.gold      | available | $9.99     | $99.99        | high           | medium | 3      | namesilo                                            |
+| cas.gold      | available | $6.93     | $83           | high           | low    | 3      | spaceship                                           |
 | aura.gold     | resell    | —         | —             | high           | medium | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
-| cva.gold      | available | $7.98     | $130.98       | medium         | low    | 3      | namecheap                                           |
-| bike.gold     | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                        |
-| dji.gold      | available | $9.99     | —             | high           | low    | 3      | name.com                                            |
+| cea.gold      | available | $9        | —             | high           | low    | 3      | unstoppable                                         |
 | dash.gold     | resell    | —         | —             | high           | medium | 4      | —                                                   |
-| gar.gold      | available | $9.99     | $99.99        | medium         | low    | 3      | namesilo                                            |
+| css.gold      | available | $9.99     | $99.99        | high           | medium | 3      | namesilo                                            |
+| foxy.gold     | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                        |
+| cva.gold      | available | $7.98     | $130.98       | medium         | low    | 3      | namecheap                                           |
+| main.gold     | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                        |
+| dea.gold      | available | $177.99   | $177.99       | high           | low    | 3      | godaddy                                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 25,054 live domains                        |
+| 1,000-row public sample | 27,106 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 3 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GOLD One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GOLD One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
